@@ -1,0 +1,193 @@
+
+#nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items{
+    display: flex;
+    width: 450px;
+    justify-content: space-around;
+}
+.div-a{
+    background-color: black;
+    height: 350px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 0px;
+}
+.div-p
+{
+    width: 500px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+} 
+.div-p1
+{
+    width: 500px;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#divbar
+{
+    height: 350px;
+    background-color:rgb(255, 255, 255);
+    display: flex;
+}
+img{
+    padding-top: 50px;
+    padding-left: 110px;
+}
+.divpara
+{
+    margin-top: 50px;
+    margin-left: 70px;
+}
+button
+{
+    background-color: slategray;
+}
+#profile
+{
+    background-image: url(./dark-5u7v1sbwoi6hdzsb.jpg);
+    height: 420px;
+}
+.profile1
+{
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 1px;
+
+}
+.pro1
+{
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+}
+.pro2
+{
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pro3
+{
+    width: 200px;
+    height: 200px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.totpro
+{
+    display: flex;
+    justify-content: space-around;
+}
+#skills
+{
+  height:350px;
+  background-color:white;  
+}
+.head3
+{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.para
+{
+    display: flex;
+    justify-content: space-around;
+}
+.html
+{
+    height: 8px;
+    width: 130px;
+    background-color: black;
+}
+.css
+{
+    height: 8px;
+    width: 130px;
+    background-color: black;
+}
+.java
+{
+    height: 8px;
+    width: 130px;
+    background-color: black;
+}
+.js
+{
+    height: 8px;
+    width: 130px;
+    background-color: black;
+}
+.eng
+{
+    height: 8px;
+    width: 130px;
+    background-color: black;
+}
+.tam
+{
+    height: 8px;
+    width: 130px;
+    background-color: black;
+}
+.twoskill
+{
+    display: flex;
+    justify-content: space-around;
+}
+#contact
+{
+    height: 100px;
+    background-color: black;
+}
+.con
+{
+    display: flex;
+}
+a{
+    margin-top: 20px;
+    color: black;
+    text-decoration: none;
+}
+.download-button {
+    display: inline-block;
+    padding: 10px 10px;
+    font-size: 16px;
+    color: white;
+    background-color: #000305;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
